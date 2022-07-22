@@ -180,9 +180,14 @@
                     <label>Mountain</label>
                 </value>
                 <value>
-                    <fullName>Test</fullName>
+                    <fullName>Test2</fullName>
                     <default>false</default>
-                    <label>Test</label>
+                    <label>Test2</label>
+                </value>
+                <value>
+                    <fullName>Mountain Electric</fullName>
+                    <default>false</default>
+                    <label>Mountain Electric</label>
                 </value>
             </valueSetDefinition>
         </valueSet>
